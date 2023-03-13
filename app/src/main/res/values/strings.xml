@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BMIExample</string>
+    <string name="body_mass_index_calculator">Body Mass Index Calculator</string>
+    <string name="weight_in_kg">Weight(in Kg)</string>
+    <string name="height_in_cm">Height(in CM)</string>
+    <string name="submit">Submit</string>
+    <string name="result">Result</string>
+</resources>
